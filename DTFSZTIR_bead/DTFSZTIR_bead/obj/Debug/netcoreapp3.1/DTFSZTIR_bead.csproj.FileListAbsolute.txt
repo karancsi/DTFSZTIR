@@ -1,0 +1,11 @@
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\bin\Debug\netcoreapp3.1\DTFSZTIR_bead.exe
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\bin\Debug\netcoreapp3.1\DTFSZTIR_bead.deps.json
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\bin\Debug\netcoreapp3.1\DTFSZTIR_bead.runtimeconfig.json
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\bin\Debug\netcoreapp3.1\DTFSZTIR_bead.runtimeconfig.dev.json
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\bin\Debug\netcoreapp3.1\DTFSZTIR_bead.dll
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\bin\Debug\netcoreapp3.1\DTFSZTIR_bead.pdb
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\obj\Debug\netcoreapp3.1\DTFSZTIR_bead.csprojAssemblyReference.cache
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\obj\Debug\netcoreapp3.1\DTFSZTIR_bead.AssemblyInfoInputs.cache
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\obj\Debug\netcoreapp3.1\DTFSZTIR_bead.AssemblyInfo.cs
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\obj\Debug\netcoreapp3.1\DTFSZTIR_bead.dll
+C:\Users\Zsófi\source\repos\DTFSZTIR_bead\DTFSZTIR_bead\obj\Debug\netcoreapp3.1\DTFSZTIR_bead.pdb
